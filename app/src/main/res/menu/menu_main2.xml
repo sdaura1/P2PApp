@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.shaheed.p2papp.Main2Activity">
+
+    <item
+        android:id="@+id/action_call"
+        android:orderInCategory="100"
+        android:icon="@mipmap/ic_launcher_fore_call"
+        android:title="Resources"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_articles"
+        android:orderInCategory="100"
+        android:iconTint="#fff"
+        android:title="Articles"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_quotes"
+        android:orderInCategory="100"
+        android:title="QUOTES"
+        app:showAsAction="never"/>
+</menu>

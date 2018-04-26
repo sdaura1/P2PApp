@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "68868697587",
+    "firebase_url": "https://p2papp-2eb38.firebaseio.com",
+    "project_id": "p2papp-2eb38",
+    "storage_bucket": "p2papp-2eb38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68868697587:android:215f4dcdfe430694",
+        "android_client_info": {
+          "package_name": "com.example.shaheed.p2papp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68868697587-1uu5ukonta75gdetfs10cduq2nb3kh24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW9_L80l346A6EM-LpsXCP7YEXln8OILM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
